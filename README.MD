@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para auxiliar o rastreamento de hábitos.
 
+- [Visite o projeto online](https://elias-ap.github.io/nlw-setup/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/4711RnqinJf3bWVEGN7BpC/Habits-(e)-(Community)?node-id=75%3A128&t=1rvPlLAHiPxZidt6-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
